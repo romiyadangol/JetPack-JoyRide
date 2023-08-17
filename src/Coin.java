@@ -1,9 +1,3 @@
-/*
- * Coins.java
- * Ingrid and Isabel Crant
- * Main currency of Jetpack Joyride. Barry collects them throughout his run and 600 coins can be used to buy a shield.
- */
-
 import java.awt.*;
 import java.awt.image.*;
 import java.util.Random;
