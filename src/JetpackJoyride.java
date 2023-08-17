@@ -11,9 +11,6 @@ import java.util.Scanner;
 import javax.sound.sampled.Clip;
 
 public class JetpackJoyride extends JFrame{
-    /**
-     *
-     */
     JetpackJoyridePanel game;
 
     public JetpackJoyride() {
