@@ -220,7 +220,7 @@ class JetpackJoyridePanel extends JPanel implements MouseListener, ActionListene
 
     // initializes the objects:
     public void initialize() {
-        speedX =-20;
+        speedX =-30;
         backgroundX = 0;
         backgroundY = 0;
         reverseBackgroundX = WIDTH;
