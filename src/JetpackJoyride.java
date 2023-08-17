@@ -1,16 +1,3 @@
-/*
- * JetpackJoyride.java
- * Ingrid and Isabel Crant
- * A clone of the mobile game "Jetpack Joyride"
- * Features include:
- * - Zappers
- * - Lasers
- * - Coins
- * - Shields
- * - Scientists
- * - Missiles
- */
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
