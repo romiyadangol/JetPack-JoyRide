@@ -1,9 +1,3 @@
-/*
- * Barry.java
- * Ingrid and Isabel Crant
- * Main character and protagonist of Jetpack Joyride controlled by the the user. He flies through the lab using his jetpack and collects coins while dodging obstacles.
- */
-
 import java.awt.*;
 import java.awt.geom.*;
 import java.awt.image.*;
